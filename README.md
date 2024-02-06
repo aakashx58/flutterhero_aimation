@@ -4,23 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-
-# ScreenShots
-<img src="![ScreenShot1 (1)](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/58e57c40-be21-4a5e-bc39-cc616dff6f18)" height="400">
-<img src="![ScreenShot2 (1)](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/9440b51a-dd4a-4fdc-9277-3c0a08604245)" height="400">
-<img src="![ScreenShot3 (1)](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/088d9113-521d-4a5c-aaab-5eecc391d3d2)" height="400">
-<img src="![ScreenShot4](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/4fbdaf0f-bbb8-435e-b5ba-c60936a6fb57)" height="400">
+# Screenshots
+<img src="https://github.com/aakashx58/flutterhero_aimation/assets/106716824/4c128914-be49-4ed6-93a5-d593d1c65715" height="400">
 
 
-# Result
-<img src="![result (1)](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/25233ceb-4269-47f2-b80c-9972b2281276)" height="400">
+# Result 
+<img src="https://github.com/aakashx58/flutterhero_aimation/assets/106716824/f05928ca-6f2f-4421-aff4-529345eeff43" height="400">
 
 
-# Features
-* Custom FadeIn Animation
-* hero Transition
-
-
+## Getting Started
 
 This project is a starting point for a Flutter application.
 
