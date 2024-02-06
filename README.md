@@ -6,29 +6,21 @@ A new Flutter project.
 
 
 # ScreenShots
-
-![alt text](<ScreenShot1 (1).png>)
-![alt text](<ScreenShot2 (1).png>)
-![alt text](<ScreenShot3 (1).png>)
-![alt text](ScreenShot4.png)
-
-
-# ScreenShot 
-
-<img src="" height="400">
-
-
+<img src="![alt text](<ScreenShot1 (1).png>)" height="400">
+<img src="![alt text](<ScreenShot2 (1).png>)
+" height="400">
+<img src="![alt text](<ScreenShot3 (1).png>)" height="400">
+<img src="![alt text](ScreenShot4.png)" height="400">
 
 
 # Result
-https
-<img src="" height="400">
+<img src="![alt text](<result (1).gif>)
+" height="400">
 
 
 # Features
 * Custom FadeIn Animation
 * hero Transition
-
 
 
 
