@@ -6,16 +6,14 @@ A new Flutter project.
 
 
 # ScreenShots
-<img src="![alt text](<ScreenShot1 (1).png>)" height="400">
-<img src="![alt text](<ScreenShot2 (1).png>)
-" height="400">
-<img src="![alt text](<ScreenShot3 (1).png>)" height="400">
-<img src="![alt text](ScreenShot4.png)" height="400">
+<img src="![ScreenShot1 (1)](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/58e57c40-be21-4a5e-bc39-cc616dff6f18)" height="400">
+<img src="![ScreenShot2 (1)](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/9440b51a-dd4a-4fdc-9277-3c0a08604245)" height="400">
+<img src="![ScreenShot3 (1)](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/088d9113-521d-4a5c-aaab-5eecc391d3d2)" height="400">
+<img src="![ScreenShot4](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/4fbdaf0f-bbb8-435e-b5ba-c60936a6fb57)" height="400">
 
 
 # Result
-<img src="![alt text](<result (1).gif>)
-" height="400">
+<img src="![result (1)](https://github.com/aakashx58/flutterhero_aimation/assets/106716824/25233ceb-4269-47f2-b80c-9972b2281276)" height="400">
 
 
 # Features
